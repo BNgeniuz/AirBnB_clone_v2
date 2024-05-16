@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" City Module for HBNB project """
+""" City Model for HBNB project """
 from models.base_model import BaseModel
 
 
